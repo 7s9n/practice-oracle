@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/miscellaneous/compile_all_views.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/miscellaneous/compile_all_views.sql
 -- Author       : Hussein Sarea
 -- Description  : Compiles all invalid views for specified schema, or all schema.
 -- Call Syntax  : @compile_all_views (schema-name or all)

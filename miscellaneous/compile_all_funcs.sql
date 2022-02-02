@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/miscellaneous/compile_all_funcs.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/miscellaneous/compile_all_funcs.sql
 -- Author       : Hussein Sarea
 -- Description  : Compiles all invalid functions for specified schema, or all schema.
 -- Call Syntax  : @compile_all_funcs (schema-name or all)

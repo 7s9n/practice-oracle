@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/constraints/enable_pk.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/constraints/enable_pk.sql
 -- Author       : Hussein Sarea
 -- Description  : Enables the Primary Key for the specified table, or all tables.
 -- Call Syntax  : @enable_pk (table-name or all) (schema-name)

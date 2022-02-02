@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/constraints/disable_fk.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/constraints/disable_fk.sql
 -- Author       : Hussein Sarea
 -- Description  : Disables all Foreign Keys belonging to the specified table, or all tables.
 -- Call Syntax  : @disable_fk (table-name or all) (schema-name)

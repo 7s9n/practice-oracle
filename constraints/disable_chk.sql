@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/constraints/disable_chk.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/constraints/disable_chk.sql
 -- Author       : Hussein Sarea
 -- Description  : Disables all check constraints for a specified table, or all tables.
 -- Call Syntax  : @disable_chk (table-name or all) (schema-name)

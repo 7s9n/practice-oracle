@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/miscellaneous/compile_all_trigs.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/miscellaneous/compile_all_trigs.sql
 -- Author       : Hussein Sarea
 -- Description  : Compiles all invalid triggers for specified schema, or all schema.
 -- Call Syntax  : @compile_all_trigs (schema-name or all)

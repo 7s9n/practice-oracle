@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/oracle-practice/constraints/enable_fk.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/constraints/enable_fk.sql
 -- Author       : Hussein Sarea
 -- Description  : Enables all Foreign Keys belonging to the specified table, or all tables.
 -- Call Syntax  : @enable_fk (table-name or all) (schema-name)
