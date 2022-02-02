@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/practice-oracle/miscellaneous/compile_all.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/tree/master/miscellaneous/compile_all.sql
 -- Author       : Hussein Sarea
 -- Description  : Compiles all invalid objects for specified schema, or all schema.
 -- Requirements : Requires all other "Compile_All" scripts.

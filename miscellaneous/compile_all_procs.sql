@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/practice-oracle/miscellaneous/compile_all_procs.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/tree/master/miscellaneous/compile_all_procs.sql
 -- Author       : Hussein Sarea
 -- Description  : Compiles all invalid procedures for specified schema, or all schema.
 -- Call Syntax  : @compile_all_procs (schema-name or all)

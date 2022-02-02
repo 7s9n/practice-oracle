@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/practice-oracle/constraints/enable_chk.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/tree/master/constraints/enable_chk.sql
 -- Author       : Hussein Sarea
 -- Description  : Enables all check constraints for a specified table, or all tables.
 -- Call Syntax  : @enable_chk (table-name or all) (schema-name)

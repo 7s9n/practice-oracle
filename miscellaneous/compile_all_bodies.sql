@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/practice-oracle/miscellaneous/compile_all_bodies.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/tree/master/miscellaneous/compile_all_bodies.sql
 -- Author       : Hussein Sarea
 -- Description  : Compiles all invalid package bodies for specified schema, or all schema.
 -- Call Syntax  : @compile_all_bodies (schema-name or all)

@@ -1,5 +1,5 @@
 -- -----------------------------------------------------------------------------------
--- File Name    : https://github.com/Ho011/practice-oracle/constraints/disable_pk.sql
+-- File Name    : https://github.com/Ho011/practice-oracle/tree/master/constraints/disable_pk.sql
 -- Author       : Hussein Sarea
 -- Description  : Disables the Primary Key for the specified table, or all tables.
 -- Call Syntax  : @disable_pk (table-name or all) (schema-name)
