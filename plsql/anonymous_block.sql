@@ -1,7 +1,7 @@
 -- -----------------------------------------------------------------------------------
 -- File Name    : https://github.com/Ho011/practice-oracle/tree/master/plsql/anonymous_block.sql
 -- Author       : Hussein Sarea
--- Last Modified: 31/01/2022
+-- Last Modified: 11/02/2022
 -- -----------------------------------------------------------------------------------
 
 /*
