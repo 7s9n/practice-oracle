@@ -1,6 +1,7 @@
 -- -----------------------------------------------------------------------------------
 -- File Name    : https://github.com/Ho011/practice-oracle/tree/master/plsql/constants.pls
 -- Author       : Hussein Sarea
+-- Description  : use the PL/SQL constants that hold values which do not change throughout the execution of the program.
 -- Last Modified: 11/02/2022
 -- -----------------------------------------------------------------------------------
 

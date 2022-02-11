@@ -1,6 +1,7 @@
 -- -----------------------------------------------------------------------------------
 -- File Name    : https://github.com/Ho011/practice-oracle/tree/master/plsql/anonymous_block.sql
 -- Author       : Hussein Sarea
+-- Description  : learn about the PL/SQL anonymous block and how to execute it.
 -- Last Modified: 11/02/2022
 -- -----------------------------------------------------------------------------------
 
